@@ -1,0 +1,61 @@
+D:\ISAD Assignment\InternetCafe\InternetCafe\bin\Debug\InternetCafe.exe.config
+D:\ISAD Assignment\InternetCafe\InternetCafe\obj\Debug\InternetCafe.csprojResolveAssemblyReference.cache
+D:\ISAD Assignment\InternetCafe\InternetCafe\obj\Debug\InternetCafe.Properties.Resources.resources
+D:\ISAD Assignment\InternetCafe\InternetCafe\obj\Debug\InternetCafe.csproj.GenerateResource.Cache
+D:\ISAD Assignment\InternetCafe\InternetCafe\bin\Debug\InternetCafe.exe
+D:\ISAD Assignment\InternetCafe\InternetCafe\bin\Debug\InternetCafe.pdb
+D:\ISAD Assignment\InternetCafe\InternetCafe\obj\Debug\InternetCafe.exe
+D:\ISAD Assignment\InternetCafe\InternetCafe\obj\Debug\InternetCafe.pdb
+D:\ISAD Assignment\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmMain.resources
+D:\ISAD Assignment\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmStaff.resources
+D:\ISAD Assignment\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmCustomer.resources
+D:\ISAD Assignment\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmHome.resources
+D:\InternetCafe\InternetCafe\bin\Debug\InternetCafe.exe.config
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.exe
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.pdb
+D:\InternetCafe\InternetCafe\bin\Debug\InternetCafe.exe
+D:\InternetCafe\InternetCafe\bin\Debug\InternetCafe.pdb
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmHome.resources
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmCustomer.resources
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmMain.resources
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmStaff.resources
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.Properties.Resources.resources
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.csproj.GenerateResource.Cache
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\bin\Debug\InternetCafe.exe.config
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\bin\Debug\InternetCafe.exe
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\bin\Debug\InternetCafe.pdb
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmHome.resources
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmCustomer.resources
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmMain.resources
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmStaff.resources
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\obj\Debug\InternetCafe.Properties.Resources.resources
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\obj\Debug\InternetCafe.csproj.GenerateResource.Cache
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\obj\Debug\InternetCafe.exe
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\obj\Debug\InternetCafe.pdb
+C:\Users\Ly PanhaRith\Documents\InternetCafe\InternetCafe\obj\Debug\InternetCafe.csprojResolveAssemblyReference.cache
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.csprojResolveAssemblyReference.cache
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmHourPrice.resources
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmReport.resources
+D:\InternetCafe\InternetCafe\obj\Debug\RdlCompile.cache
+D:\InternetCafe\InternetCafe\obj\Debug\RdlCompile.compiled
+D:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.frmReportDetailCustomer.resources
+E:\InternetCafe\InternetCafe\bin\Debug\InternetCafe.exe.config
+E:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.exe
+E:\InternetCafe\InternetCafe\obj\Debug\InternetCafe.pdb
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\bin\Debug\InternetCafe.exe.config
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.exe
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.pdb
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\bin\Debug\InternetCafe.exe
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\bin\Debug\InternetCafe.pdb
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csprojResolveAssemblyReference.cache
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmCustomer.resources
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmHome.resources
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmHourPrice.resources
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmMain.resources
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmReport.resources
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmReportDetailCustomer.resources
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmStaff.resources
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.Properties.Resources.resources
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csproj.GenerateResource.Cache
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\RdlCompile.cache
+E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\RdlCompile.compiled
