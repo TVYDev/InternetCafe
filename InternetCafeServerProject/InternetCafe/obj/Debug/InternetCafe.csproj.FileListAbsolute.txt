@@ -59,3 +59,16 @@ E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\
 E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csproj.GenerateResource.Cache
 E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\RdlCompile.cache
 E:\My_project\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\RdlCompile.compiled
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csprojResolveAssemblyReference.cache
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmCustomer.resources
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmHome.resources
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmHourPrice.resources
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmMain.resources
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmReport.resources
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmReportDetailCustomer.resources
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.frmStaff.resources
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.Properties.Resources.resources
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csproj.GenerateResource.Cache
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.csproj.CoreCompileInputs.cache
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.exe
+D:\MyProjects\C#\Internet Cafe\InternetCafeServerProject\InternetCafe\obj\Debug\InternetCafe.pdb
